@@ -10,7 +10,7 @@ await connection();
      <main className="flex min-h-screen flex-col items-center justify-center p-24 bg-white dark:bg-gray-900 transition-colors">
        <div className="space-y-6 text-center">
          <h1 className="text-lg font-extrabold tracking-tight sm:text-sm text-gray-900 dark:text-white">
-           We are We are going home soon
+           We are going home soon
          </h1>
          <div className="flex justify-between">
           <div>{format(new Date(2026, 8, 19),"dd/MM/yyyy")}</div>
